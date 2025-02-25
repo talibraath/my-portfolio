@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2021 - Present",
+    institution: "FAST-National University of Computer and Emerging Sciences",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Intermediate ",
+    duration: "2019 - 2021",
+    institution: "Government College",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Matriculation",
+    duration: "2017 - 2019",
+    institution: "The Knowledge School",
   }
 ]
